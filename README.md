@@ -1,4 +1,4 @@
-# Hi, I'm Maidióri 👋
+# Hi, I'm Maidióri
 
 ### Sales Manager transitioning into AI & Technology
 
