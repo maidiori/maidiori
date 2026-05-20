@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Maidióri 👋
 
-<!--
-**maidiori/maidiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sales Manager transitioning into AI & Technology
 
-Here are some ideas to get you started:
+Passionate about innovation, intelligent systems and business strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Learning
+- Artificial Intelligence
+- Automation
+- Python
+- Git & GitHub
+- AI applied to business
+
+---
+
+## Goals
+- Become an AI specialist
+- Build smart business solutions
+- Develop practical tech skills
+- Create impactful projects
+
+---
+
+## Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## About Me
+- Based in Brazil
+- Interested in AI, strategy and technology
+- Exploring practical applications of artificial intelligence
+
+---
+
+## Connect with me
+www.linkedin.com/in/maidióri-s-l-santos-638896185
